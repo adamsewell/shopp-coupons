@@ -1,0 +1,34 @@
+#shopp_courtesy .inside hr{
+	border: none;
+	border-bottom: 1px solid #DFDFDF;
+	height: 1px;
+}
+#shopp_courtesy .inside em{
+	color: #A80000;
+}
+#shopp_courtesy p.description{
+	padding: 5px;
+}
+#shopp_courtesy .inside ul.option{
+	padding: 5px;
+}
+#shopp_courtesy .inside li.option_name{
+	font-weight: bold;
+}
+#shopp_courtesy .inside li.option_settings{
+	margin-left: 15px;
+}
+
+#stb-welcome p{
+	padding: 5px;
+	font-size: 1.1em;
+}
+#stb-welcome hr{
+	border: none;
+	border-bottom: 1px solid #DFDFDF;
+	height: 1px;
+	margin: 5px 0 5px 0;
+}
+.center{
+	margin: 0 auto;
+}
